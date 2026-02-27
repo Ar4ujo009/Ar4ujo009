@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating spaghetti since 2023<br>📚  I'm currently studying Systems Delevopments<br>🎯 Goals: Study or work abroad<br>🎲 Fun fact: Since I was a child I love tecnology, always pretended to be in this area</p>
+<p align="left">✨ Creating spaghetti since 2023<br>📚  I'm currently studying Systems Delevopments<br>🎯 Goals: Study or work abroad<br>🎲 Fun fact: Since I was a child I love tecnology, I always intend to be in this area</p>
 
 ###
 
